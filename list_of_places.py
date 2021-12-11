@@ -23,3 +23,5 @@ print (f"Estas cordialmente invitado {guest [2]}")
 print (f"Estas cordialmente invitado {guest [3]}")
 print (f"Estas cordialmente invitado {guest [4]}")
 print (f"hay {len(guest)} invitados")
+
+#page 46
